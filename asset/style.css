@@ -138,7 +138,10 @@
     }
 
 @media only screen and (max-width: 780px){
+    body{
+        -webkit-tap-highlight-color: transparent;
+    }
     #product-card{
-        margin: 50% auto;
+        margin: 250px auto;
     }
 }
