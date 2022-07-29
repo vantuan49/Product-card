@@ -142,5 +142,7 @@
    
     #product-card{
         margin: 50px auto;
+        width: 220px;
+        height: 330px;
     }
 }
